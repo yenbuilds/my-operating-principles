@@ -33,4 +33,4 @@
    The synthesis is the point.
 
 
-If consistently facing friction or stress, it could be a trigger to re-examine mental models in use, and determine what is missing or not working well.
+If consistently facing friction or frustration, it may be time to re-examine mental models in use, and determine what is missing or not working well.
