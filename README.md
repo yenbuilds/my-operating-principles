@@ -1,0 +1,33 @@
+1. **Competence before compliance.**
+
+   Don’t follow rules blindly.  
+   Understand the system first.  
+   Rules without comprehension produce fragility;  
+   comprehension makes rules optional.
+
+2. **Thinking before ritual.**
+
+   Rituals are shortcuts, not foundations.  
+   Performing a sequence correctly means nothing  
+   if the underlying logic is misunderstood.  
+   Master the principles, then ritual becomes flexible.
+
+3. **Why before how.**
+
+   Technique without purpose is wasted motion.  
+   Start with intent, meaning, and the causal chain.  
+   A well-understood “why” makes the “how” trivial.
+
+4. **Mental frameworks before checklists.**
+
+   Checklists prevent error;  
+   frameworks create insight.  
+   A checklist is useful only when the model behind it is solid.  
+   Build the model first.
+
+5. **Breadth before depth.**
+
+   Depth without breadth becomes dogma.  
+   Breadth without depth becomes noise.  
+   Explore widely, then converge narrowly.  
+   The synthesis is the point.
