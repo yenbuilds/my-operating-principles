@@ -31,3 +31,6 @@
    Breadth without depth becomes noise.  
    Explore widely, then converge narrowly.  
    The synthesis is the point.
+
+
+If consistently facing friction or stress, it could be a trigger to re-examine mental models in use, and determine what is missing or not working well.
