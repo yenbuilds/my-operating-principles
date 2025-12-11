@@ -2,7 +2,7 @@
 
 For the last century, our definition of **academic potential** has been narrow. It centered on a specific bundle of cognitive traits: high working memory, rapid processing speed, strong conscientiousness, and the ability to produce error-free output under time pressure.
 
-These are the traits that get you into selective schools. They are what allow a student to sit in an exam hall for three hours, synthesize a semester’s worth of facts, and handwrite a coherent, structurally perfect essay before the bell rings.
+These are the traits that get you into prestigous universities. They are what allow a student to sit in an exam hall for three hours, synthesize a semester’s worth of facts, and handwrite a coherent, structurally perfect essay before the bell rings.
 
 For decades, we conflated this execution capability with intelligence itself. But as AI models begin outperforming humans on standardized tests, we are discovering that we weren’t necessarily measuring *insight* — we were measuring the ability to act as a reliable information processor.
 
@@ -89,7 +89,7 @@ The “messy” thinker can no longer say:
 The tools now remove that excuse.
 
 As polished output becomes universal, the **bar for originality** rises.  
-The selective-school student must evolve beyond relying on speed and precision.  
+The traditionally brilliant student must evolve beyond relying on speed and precision.  
 The conceptual thinker must actually prove that their ideas are novel and deep.
 
 The advantage hasn’t just shifted — the ceiling has been raised.
