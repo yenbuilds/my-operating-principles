@@ -100,9 +100,25 @@ The advantage hasn’t just shifted — the ceiling has been raised.
 
 We are witnessing a profound **decoupling of ideation and execution**.
 
-For decades, you couldn’t be a great writer without being a good speller.  
-You couldn’t be a great coder without memorizing syntax.  
-You couldn’t get into elite institutions without performing under time pressure.
+For decades, you couldn’t be a great researcher unless you could manually sift through thousands of pages of literature.
+
+You couldn’t be a great designer unless you could operate complex software with near-perfect muscle memory.
+
+You couldn’t be a great data analyst unless you could write SQL flawlessly and remember every function.
+
+You couldn’t be a great lawyer unless you could recall case law verbatim under exam conditions.
+
+You couldn’t be a great engineer unless you could do multi-step math by hand without making arithmetic mistakes.
+
+You couldn’t build a startup unless you had the operational discipline to draft documents, plan strategy, and keep everything organized yourself.
+
+You couldn’t succeed in consulting unless you could produce polished slide decks, charts, and analyses at speed and under pressure.
+
+You couldn’t work in finance unless you could model everything manually in Excel at 2 a.m. without a single formula error.
+
+You couldn’t be a “top student” unless you could compress, memorize, and regurgitate information on demand.
+
+You couldn’t have your ideas taken seriously unless you had the executive function to present them perfectly.
 
 The gatekeepers selected for execution because execution used to be the scarce resource — the vehicle required to transport ideas into the world.
 
