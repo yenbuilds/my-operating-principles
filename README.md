@@ -34,6 +34,8 @@
 
 If consistently facing friction or frustration, it may be time to re-examine mental models in use, and determine what is missing or not working well.
 
+when something repeatedly breaks you probably have a structural problem. Address it rationally. 
+
 ## Related Files
 
 - [inevitable-progress.md](https://github.com/yenbuilds/my-operating-principles/blob/main/inevitable-progress.md)
