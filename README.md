@@ -1,38 +1,40 @@
-1. **Competence before compliance.**
+## 1. **Competence before compliance.**
+Rules are not substitutes for understanding.  
+Follow nothing blindly.  
+Comprehension creates robustness;  
+obedience without comprehension creates fragility.  
+Once you understand the system, rules become optional tools—not constraints.
 
-   Don’t follow rules blindly.  
-   Understand the system first.  
-   Rules without comprehension produce fragility;  
-   comprehension makes rules optional.
+## 2. **Thinking before ritual.**
+Rituals are conveniences, not foundations.  
+Executing a sequence flawlessly means nothing if the underlying mechanism is unclear.  
+Master the principles first; the ritual then becomes adaptable rather than restrictive.
 
-2. **Thinking before ritual.**
+## 3. **Why before how.**
+Technique without intent is wasted motion.  
+Begin with the purpose, the causal chain, the reason a thing matters.  
+Once the “why” is grasped, the “how” becomes either obvious or irrelevant.
 
-   Rituals are shortcuts, not foundations.  
-   Performing a sequence correctly means nothing  
-   if the underlying logic is misunderstood.  
-   Master the principles, then ritual becomes flexible.
+## 4. **Frameworks before checklists.**
+Checklists prevent mistakes; frameworks generate insight.  
+A checklist is only as strong as the model behind it.  
+Build the model first—the list will write itself.
 
-3. **Why before how.**
+## 5. **Breadth before depth.**
+Depth without breadth becomes dogma.  
+Breadth without depth becomes noise.  
+Survey widely, then dive selectively.  
+Synthesis—not extremity—is the real objective.
 
-   Technique without purpose is wasted motion.  
-   Start with intent, meaning, and the causal chain.  
-   A well-understood “why” makes the “how” trivial.
+---
 
-4. **Mental frameworks before checklists.**
+## **Structural Diagnostics: When Things Keep Breaking**
+Persistent friction is not a personal failing—it is a signal of structural weakness in the system being used.  
+When something repeatedly fails, you don’t need more effort, emotion, or frustration. You need a structural fix.
 
-   Checklists prevent error;  
-   frameworks create insight.  
-   A checklist is useful only when the model behind it is solid.  
-   Build the model first.
+Address it rationally and immediately.
 
-5. **Breadth before depth.**
-
-   Depth without breadth becomes dogma.  
-   Breadth without depth becomes noise.  
-   Explore widely, then converge narrowly.  
-   The synthesis is the point.
-
-If consistently facing friction or frustration, it may be time to re-examine mental models in use, and determine what is missing or not working well.
-
-when something repeatedly breaks you probably have a structural problem. Address it rationally and fix it at with minimal delay. eg if broken markdowm consistently
-produced by the LLM don't get flustered, develop a solution now.
+**Example:**  
+If an LLM keeps producing broken markdown, don’t get flustered.  
+Build a prompt wrapper, a formatting guard, or a validation step now.  
+Small structural repairs prevent exponential future waste.
