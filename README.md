@@ -38,3 +38,11 @@ Address it rationally and immediately.
 If an LLM keeps producing broken markdown, don’t get flustered.  
 Build a prompt wrapper, a formatting guard, or a validation step now.  
 Small structural repairs prevent exponential future waste.
+
+---
+
+## **Related Documents**
+- **Strategic:** [strategic-inevitable-progress.md](strategic-inevitable-progress.md)
+- **Strategic:** [strategic-intp-compound-engine.md](strategic-intp-compound-engine.md)
+- **Strategic:** [strategic-master-spine-model.md](strategic-master-spine-model.md)
+- **Tactical:** [tactical-yenbuilds-atsp.md](tactical-yenbuilds-atsp.md)
