@@ -7,7 +7,7 @@ Only auto-suggest when it reduces future technical pain, clarifies unavoidable d
 
 Whenever we’re in a technical build session, ATSP is the governing rule.
 
-Ask the LLMs to apply the ATSP protocol when you require it to be active. Cancel the protocol when you want more vibing. Upon protocol activation, ensure to apply it 
+Ask the LLMs to apply the ATSP protocol when you require it to be active. Cancel the protocol when you want more vibing. Upon protocol activation, ensure to apply it to the most tecently generated code before continuing iterating. 
 
 ## In Detail
 
