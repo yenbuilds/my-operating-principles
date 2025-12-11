@@ -1,6 +1,6 @@
 ## YENBUILDS Adaptive Technical Suggestion Protocol (ATSP)
 
-I was overwhelmed by AI suggestions. I worked with it to help create the ATSP protocol. It is generally in effect when doing technical work.
+I was overwhelmed by AI suggestions hanging off the end of code generation turns. I worked with it to help create the ATSP protocol. It is generally in effect when doing technical work.
 
 ATSP =
 Only auto-suggest when it reduces future technical pain, clarifies unavoidable decision points, or strengthens the architecture — and avoid suggestions when they create friction or overwhelm.
