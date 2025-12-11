@@ -36,9 +36,3 @@ If consistently facing friction or frustration, it may be time to re-examine men
 
 when something repeatedly breaks you probably have a structural problem. Address it rationally and fix it at with minimal delay. eg if broken markdowm consistently
 produced by the LLM don't get flustered, develop a solution now.
-
-## Related Files
-
-- [inevitable-progress.md](https://github.com/yenbuilds/my-operating-principles/blob/main/inevitable-progress.md)
-- [master-spine-model.md](https://github.com/yenbuilds/my-operating-principles/blob/main/master-spine-model.md)
-- [yenbuilds-atsp.md](https://github.com/yenbuilds/my-operating-principles/blob/main/yenbuilds-atsp.md)
