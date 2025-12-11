@@ -34,7 +34,8 @@
 
 If consistently facing friction or frustration, it may be time to re-examine mental models in use, and determine what is missing or not working well.
 
-when something repeatedly breaks you probably have a structural problem. Address it rationally and fix it at with minimal delay. 
+when something repeatedly breaks you probably have a structural problem. Address it rationally and fix it at with minimal delay. eg if broken markdowm consistently
+produced by the LLM don't get flustered, develop a solution now.
 
 ## Related Files
 
