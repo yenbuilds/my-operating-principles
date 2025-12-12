@@ -42,8 +42,9 @@ Small structural repairs prevent exponential future waste.
 ---
 
 ## **Related Documents**
-- **Inspiration:** [inspiration-great-levelling.md](inspiration-great-levelling.md)
-- **Strategic:** [strategic-inevitable-progress.md](strategic-inevitable-progress.md)
-- **Strategic:** [strategic-intp-compound-engine.md](strategic-intp-compound-engine.md)
-- **Strategic:** [strategic-master-spine-model.md](strategic-master-spine-model.md)
-- **Tactical:** [tactical-yenbuilds-atsp.md](tactical-yenbuilds-atsp.md)
+- **Inspirational:** [yenbuilds-inspirational-intp.md](yenbuilds-inspirational-intp.md)
+- **Inspirational:** [yenbuilds-inspirational-great-levelling.md](yenbuilds-inspirational-great-levelling.md)
+- **Strategic:** [yenbuilds-strategic-inevitable-progress.md](yenbuilds-strategic-inevitable-progress.md)
+- **Strategic:** [yenbuilds-strategic-intp-compound-engine.md](yenbuilds-strategic-intp-compound-engine.md)
+- **Strategic:** [yenbuilds-strategic-master-spine-model.md](yenbuilds-strategic-master-spine-model.md)
+- **Tactical:** [yenbuilds-tactical-atsp.md](yenbuilds-tactical-atsp.md)
