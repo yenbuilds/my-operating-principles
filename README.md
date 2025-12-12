@@ -43,6 +43,7 @@ Small structural repairs prevent exponential future waste.
 
 ## **Related Documents**
 - **Inspiration:** [inspiration-great-levelling.md](inspiration-great-levelling.md)
+- **Strategic:** [yenbuilds-strategic-forwards-we-go.md](yenbuilds-strategic-forwards-we-go.md)
 - **Strategic:** [strategic-inevitable-progress.md](strategic-inevitable-progress.md)
 - **Strategic:** [strategic-intp-compound-engine.md](strategic-intp-compound-engine.md)
 - **Strategic:** [strategic-master-spine-model.md](strategic-master-spine-model.md)
