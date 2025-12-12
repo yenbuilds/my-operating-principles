@@ -39,6 +39,20 @@ If an LLM keeps producing broken markdown, don’t get flustered.
 Build a prompt wrapper, a formatting guard, or a validation step now.  
 Small structural repairs prevent exponential future waste.
 
+## Neutralise Weaknesses, Rather than Focusing on Strengths (Invert, Always Invert)
+
+Don’t ask *“How do I leverage my strengths?”*  
+Ask *“What reliably causes failure—and how do I make that impossible?”*
+
+Strengths are conditional.  
+Weaknesses extract a tax in every state.
+
+Remove bottlenecks instead of chasing upside.  
+Engineer systems that survive low energy, not peak motivation.
+
+Eliminate downside.  
+Let upside emerge automatically.
+
 ---
 
 ## **Related Documents**
