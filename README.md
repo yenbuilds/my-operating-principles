@@ -41,17 +41,20 @@ Small structural repairs prevent exponential future waste.
 
 ## Neutralise Weaknesses, Rather than Focusing on Strengths (Invert, Always Invert)
 
+Conventional advice says to double down on strengths.  
+This misses where progress actually collapses.
+
 Don’t ask *“How do I leverage my strengths?”*  
 Ask *“What reliably causes failure—and how do I make that impossible?”*
 
-Strengths are conditional.  
-Weaknesses extract a tax in every state.
+Strengths only pay off when conditions are ideal.  
+Weaknesses impose a tax in *every* state.
 
 Remove bottlenecks instead of chasing upside.  
-Engineer systems that survive low energy, not peak motivation.
+Design systems that function on low energy, not peak motivation.
 
 Eliminate downside.  
-Let upside emerge automatically.
+Let upside take care of itself.
 
 ---
 
