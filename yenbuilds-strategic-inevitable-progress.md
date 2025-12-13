@@ -88,7 +88,7 @@ Examples:
 
 By pre-building the rails, future work becomes mechanical rather than psychological.
 
-Rituals transform chaos into predictable flow.
+Rituals transform chaos into predictable flow, but take care not to forget that rituals do not replace thinking.
 
 ---
 
