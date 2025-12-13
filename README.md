@@ -60,6 +60,7 @@ Let upside take care of itself.
 
 ## **Related Documents**
 - **Inspirational:** [yenbuilds-inspirational-power-and-ethics-of-naming.md](yenbuilds-inspirational-power-and-ethics-of-naming.md)
+- **Inspirational:** [yenbuilds-inspirational-maturity-definition.md](yenbuilds-inspirational-maturity-definition.md)
 - **Inspirational:** [yenbuilds-inspirational-intp.md](yenbuilds-inspirational-intp.md)
 - **Inspirational:** [yenbuilds-inspirational-great-levelling.md](yenbuilds-inspirational-great-levelling.md)
 - **Strategic:** [yenbuilds-strategic-inevitable-progress.md](yenbuilds-strategic-inevitable-progress.md)
