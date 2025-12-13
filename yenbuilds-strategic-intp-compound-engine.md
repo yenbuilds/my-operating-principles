@@ -1,4 +1,4 @@
-# THE INTP COMPOUND ENGINE
+# THE YENBUILDS COMPOUND ENGINE
 *A self-optimising system for endless progress with minimal friction*
 
 ---
