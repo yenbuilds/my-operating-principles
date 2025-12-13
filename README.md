@@ -63,6 +63,7 @@ Let upside take care of itself.
 - **Inspirational:** [yenbuilds-inspirational-maturity-definition.md](yenbuilds-inspirational-maturity-definition.md)
 - **Inspirational:** [yenbuilds-inspirational-intp.md](yenbuilds-inspirational-intp.md)
 - **Inspirational:** [yenbuilds-inspirational-great-levelling.md](yenbuilds-inspirational-great-levelling.md)
+- **Strategic:***[yenbuilds-stragtactical-progress-measurement.md](yenbuilds-stragtactical-progress-measurement.md)
 - **Strategic:** [yenbuilds-strategic-inevitable-progress.md](yenbuilds-strategic-inevitable-progress.md)
 - **Strategic:** [yenbuilds-strategic-intp-compound-engine.md](yenbuilds-strategic-intp-compound-engine.md)
 - **Strategic:** [yenbuilds-strategic-master-spine-model.md](yenbuilds-strategic-master-spine-model.md)
