@@ -1,3 +1,27 @@
+### Inspirational (Identity, Framing, Worldview)
+- [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
+- [Definition of Maturity](yenbuilds-inspirational-maturity-definition.md)
+- [INTP](yenbuilds-inspirational-intp.md)
+- [The Great Levelling](yenbuilds-inspirational-great-levelling.md)
+
+---
+
+### Strategic (Structural Models, Invariants, Direction)
+- [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md)
+- [Progress Measurement (Strategic–Tactical Bridge)](yenbuilds-stragtactical-progress-measurement.md)
+- [Inevitable Progress](yenbuilds-strategic-inevitable-progress.md)
+- [INTP Compound Engine](yenbuilds-strategic-intp-compound-engine.md)
+- [Master Spine Model](yenbuilds-strategic-master-spine-model.md)
+- [Adaptive Self-Optimisation Loop](yenbuilds-strategic-adaptive-self-optimisation-loop.md)
+- [Forwards We Go](yenbuilds-strategic-forwards-we-go.md)
+
+---
+
+### Tactical (Execution Rules, Operating Mechanics)
+- [Adaptive Technical Suggestion Protocol (ATSP)](yenbuilds-tactical-atsp.md)
+- [LLM Situational Awareness](yenbuilds-tactical-llm-situational-awareness.md)
+
+  
 ## 1. **Competence before compliance.**
 Rules are not substitutes for understanding.  
 Follow nothing blindly.  
@@ -55,20 +79,3 @@ Design systems that function on low energy, not peak motivation.
 
 Eliminate downside.  
 Let upside take care of itself.
-
----
-
-## **Related Documents**
-- **Inspirational:** [yenbuilds-inspirational-power-and-ethics-of-naming.md](yenbuilds-inspirational-power-and-ethics-of-naming.md)
-- **Inspirational:** [yenbuilds-inspirational-maturity-definition.md](yenbuilds-inspirational-maturity-definition.md)
-- **Inspirational:** [yenbuilds-inspirational-intp.md](yenbuilds-inspirational-intp.md)
-- **Inspirational:** [yenbuilds-inspirational-great-levelling.md](yenbuilds-inspirational-great-levelling.md)
-- **Strategic:**[yenbuilds-strategic-useless-retrospectives.md](yenbuilds-strategic-useless-retrospectives.md)
-- **Strategic:**[yenbuilds-stragtactical-progress-measurement.md](yenbuilds-stragtactical-progress-measurement.md)
-- **Strategic:** [yenbuilds-strategic-inevitable-progress.md](yenbuilds-strategic-inevitable-progress.md)
-- **Strategic:** [yenbuilds-strategic-intp-compound-engine.md](yenbuilds-strategic-intp-compound-engine.md)
-- **Strategic:** [yenbuilds-strategic-master-spine-model.md](yenbuilds-strategic-master-spine-model.md)
-- **Strategic:** [yenbuilds-strategic-adaptive-self-optimisation-loop.md](yenbuilds-strategic-adaptive-self-optimisation-loop.md)
-- **Strategic:** [yenbuilds-strategic-forwards-we-go.md](yenbuilds-strategic-forwards-we-go.md)
-- **Tactical:** [yenbuilds-tactical-atsp.md](yenbuilds-tactical-atsp.md)
-- **Tactical:** [yenbuilds-tactical-llm-situational-awareness.md](yenbuilds-tactical-llm-situational-awareness.md)
