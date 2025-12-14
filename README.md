@@ -15,6 +15,10 @@
 - [Adaptive Self-Optimisation Loop](yenbuilds-strategic-adaptive-self-optimisation-loop.md)
 - [Forwards We Go](yenbuilds-strategic-forwards-we-go.md)
 
+### Tactical (Execution Rules, Operating Mechanics)
+- [Adaptive Technical Suggestion Protocol (ATSP)](yenbuilds-tactical-atsp.md)
+- [LLM Situational Awareness](yenbuilds-tactical-llm-situational-awareness.md)
+- [Language De-Hype](yenbuilds-tactical-language-dehype.md)
 ---
 
 ## Core Operating Principles
