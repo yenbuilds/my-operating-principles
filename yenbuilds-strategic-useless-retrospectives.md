@@ -123,14 +123,42 @@ Delayed feedback prevents learning.
 ---
 
 ### 4. Local Optimization vs System Health
-Subcomponents optimized themselves at the expense of the whole.
+
+Subcomponents optimize themselves at the expense of the whole.
 
 Examples:
-- Throughput maximized, stability degraded
-- Conflicting KPIs across boundaries
-- Ownership stopped at interfaces
+- Throughput is maximized while stability degrades
+- KPIs conflict across team or system boundaries
+- Ownership stops at interfaces rather than outcomes
 
 Systems get the behavior they reward.
+
+**Role of Tight (and Broken) Feedback Loops**
+
+Local optimization thrives when feedback is:
+- Immediate at the local level
+- Delayed, diffused, or invisible at the system level
+
+In these conditions:
+- Teams receive fast reinforcement for local wins
+- System-wide costs surface too late to influence behavior
+- Pain is experienced by downstream teams, not the optimizers
+
+As a result:
+- Metrics improve while the system worsens
+- Success is measured where feedback is tight, not where impact is real
+- Local efficiency masks global fragility
+
+Healthy systems align feedback loops such that:
+- The cost of local optimization is felt locally
+- System-level failures propagate quickly and visibly
+- Incentives reflect end-to-end outcomes, not partial wins
+
+When feedback is misaligned, rational actors will optimize locally.  
+This is not selfishness — it is predictable behavior.
+
+The failure is not in execution.  
+It is in feedback and incentive design.
 
 ---
 
