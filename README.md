@@ -17,65 +17,101 @@
 
 ---
 
-### Tactical (Execution Rules, Operating Mechanics)
-- [Adaptive Technical Suggestion Protocol (ATSP)](yenbuilds-tactical-atsp.md)
-- [LLM Situational Awareness](yenbuilds-tactical-llm-situational-awareness.md)
+## Core Operating Principles
 
-  
-## 1. **Competence before compliance.**
+### 1. Competence before compliance.
 Rules are not substitutes for understanding.  
 Follow nothing blindly.  
 Comprehension creates robustness;  
 obedience without comprehension creates fragility.  
-Once you understand the system, rules become optional tools—not constraints.
 
-## 2. **Thinking before ritual.**
-Rituals are conveniences, not foundations.  
-Executing a sequence flawlessly means nothing if the underlying mechanism is unclear.  
-Master the principles first; the ritual then becomes adaptable rather than restrictive.
-
-## 3. **Why before how.**
-Technique without intent is wasted motion.  
-Begin with the purpose, the causal chain, the reason a thing matters.  
-Once the “why” is grasped, the “how” becomes either obvious or irrelevant.
-
-## 4. **Frameworks before checklists.**
-Checklists prevent mistakes; frameworks generate insight.  
-A checklist is only as strong as the model behind it.  
-Build the model first—the list will write itself.
-
-## 5. **Breadth before depth.**
-Depth without breadth becomes dogma.  
-Breadth without depth becomes noise.  
-Survey widely, then dive selectively.  
-Synthesis—not extremity—is the real objective.
+Once you understand the system, rules become optional tools — not constraints.
 
 ---
 
-## **Structural Diagnostics: When Things Keep Breaking**
-Persistent friction is not a personal failing—it is a signal of structural weakness in the system being used.  
-When something repeatedly fails, you don’t need more effort, emotion, or frustration. You need a structural fix.
+### 2. Thinking before ritual.
+Rituals are conveniences, not foundations.  
+Executing a sequence flawlessly means nothing if the underlying mechanism is unclear.  
 
-Address it rationally and immediately.
+Master the principles first; the ritual then becomes adaptable rather than restrictive.
 
-**Example:**  
-If an LLM keeps producing broken markdown, don’t get flustered.  
-Build a prompt wrapper, a formatting guard, or a validation step now.  
-Small structural repairs prevent exponential future waste.
+---
 
-## Neutralise Weaknesses, Rather than Focusing on Strengths (Invert, Always Invert)
+### 3. Why before how.
+Technique without intent is wasted motion.  
+Begin with the purpose, the causal chain, the reason a thing matters.  
+
+Once the “why” is grasped, the “how” becomes either obvious or irrelevant.
+
+---
+
+### 4. Frameworks before checklists.
+Checklists prevent mistakes; frameworks generate insight.  
+A checklist is only as strong as the model behind it.  
+
+Build the model first.  
+The checklist will write itself.
+
+---
+
+### 5. Breadth before depth.
+Depth without breadth becomes dogma.  
+Breadth without depth becomes noise.  
+
+Survey widely, then dive selectively.  
+Synthesis — not extremity — is the objective.
+
+---
+
+## Structural Diagnostics: Detecting Systemic Failure
+
+Persistent friction is not a personal failing.  
+It is a signal of structural weakness in the system being used.
+
+When something repeatedly fails, you do not need:
+- More effort  
+- More emotion  
+- More motivation  
+- More frustration  
+
+Those are irrelevant variables.
+
+You need a **structural fix**.
+
+Address the structure rationally and immediately.
+
+---
+
+### Example: Repeated LLM Output Failures
+
+If an LLM keeps producing broken markdown, do not get flustered.  
+That reaction is noise.
+
+Instead:
+- Add a prompt wrapper  
+- Introduce a formatting guard  
+- Add a validation or post-processing step  
+
+One small structural repair prevents exponential future waste.
+
+---
+
+## Design Doctrine: Eliminate Downside First (Invert, Always Invert)
 
 Conventional advice says to double down on strengths.  
-This misses where progress actually collapses.
+This is usually wrong.
 
-Don’t ask *“How do I leverage my strengths?”*  
-Ask *“What reliably causes failure—and how do I make that impossible?”*
+Do not ask:
+> *“How do I leverage my strengths?”*
 
-Strengths only pay off when conditions are ideal.  
-Weaknesses impose a tax in *every* state.
+Ask instead:
+> *“What reliably causes failure — and how do I make that impossible?”*
+
+Strengths only pay off under ideal conditions.  
+Weaknesses impose a tax in **every** condition.
 
 Remove bottlenecks instead of chasing upside.  
-Design systems that function on low energy, not peak motivation.
+Design systems that function in low-energy states, not peak motivation.
 
 Eliminate downside.  
 Let upside take care of itself.
