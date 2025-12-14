@@ -7,7 +7,7 @@
 ---
 
 ### Strategic (Structural Models, Invariants, Direction)
-- [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md)
+- [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md)  These ideas should be encoded into most organisations
 - [Progress Measurement (Strategic–Tactical Bridge)](yenbuilds-stragtactical-progress-measurement.md)
 - [Inevitable Progress](yenbuilds-strategic-inevitable-progress.md)
 - [INTP Compound Engine](yenbuilds-strategic-intp-compound-engine.md)
