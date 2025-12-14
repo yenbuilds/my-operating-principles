@@ -67,14 +67,46 @@ If incentives don’t change, behavior won’t change.
 ---
 
 ### 2. Energy Gradient Mismatch
-The “correct” action required more effort than the wrong one.
+
+The “correct” action requires more effort than the incorrect one.
 
 Examples:
-- Safe path slower than risky path
-- Documented path harder than tribal knowledge
-- Fixing debt required political or emotional cost
+- The safe path is slower than the risky path
+- The documented path is harder than tribal knowledge
+- Fixing technical debt carries political or emotional cost
 
 Humans follow the **path of least resistance**, not ideals.
+
+**Concrete Example: Bureaucratic Change Control**
+
+A formal change control process is introduced to “prevent errors.”
+
+In practice:
+- Submitting a change requires multiple forms, meetings, and approvals
+- The process is slow, emotionally draining, and reputation-risking
+- Reviews focus on compliance (boxes checked, approvals present), not substance
+- Real failure modes are rarely surfaced or meaningfully challenged
+
+As a result:
+- Engineers batch changes to avoid repeated overhead
+- Small fixes are delayed or bundled into larger changes
+- Changes are described strategically to avoid scrutiny
+- Workarounds become normalised
+
+The system unintentionally rewards:
+- Fewer but larger changes
+- Reduced transparency
+- Risk concentration
+- Ritual compliance over correctness
+
+The “correct” behaviour (small, frequent, well-scoped changes) is made expensive.  
+The “incorrect” behaviour (bundling, hiding, rushing) is made efficient.
+
+People do not bypass change control because they are careless.  
+They bypass it because the energy gradient is misaligned.
+
+This is not a failure of discipline.  
+It is a failure of design.
 
 ---
 
