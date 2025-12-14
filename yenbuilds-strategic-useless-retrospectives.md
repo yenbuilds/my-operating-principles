@@ -163,35 +163,53 @@ It is in feedback and incentive design.
 ---
 
 ### 5. Cognitive Load Overload
-Correct operation required vigilance or heroics.
+
+Correct operation requires sustained vigilance or individual heroics.
 
 Examples:
-- Too many rules to remember
-- Implicit knowledge not encoded
-- Success depended on “being careful”
+- Too many rules to remember and apply correctly
+- Critical knowledge remains implicit or tribal
+- Success depends on individuals “being careful” or “remembering next time”
 
-Any system that relies on attention instead of constraints is already broken.
+**Any system that relies on attention instead of constraints is already broken.**
 
----
+**Concrete Failure Modes**
 
-## What a Real Retrospective Produces
+In cognitively overloaded systems:
+- Operators must mentally simulate the system to avoid failure
+- Correct sequencing exists only in people’s heads
+- Safety depends on experience, not structure
+- Mistakes are framed as carelessness rather than predictability
 
-A valid retrospective **does not** produce:
-- Lessons learned
-- Action items
-- Best practices
-- Reminders
-- Agreements to “try harder”
+**Common Organisational Examples**
 
-It produces **structural change**, such as:
-- Constraints
-- Defaults
-- Automation
-- Incentive shifts
-- Removed decisions
-- Reduced surface area
+- Deployment processes that require remembering undocumented steps  
+- Safety procedures that live in slide decks, not in tooling  
+- Manual environment switches with no guardrails  
+- Configuration flags that can be toggled into invalid states  
+- Systems where “senior people” are required to supervise routine work  
 
-If the same outcome can still occur without active resistance, the retro failed.
+**Second-Order Effects**
+
+These systems:
+- Punish newcomers disproportionately
+- Create knowledge bottlenecks around a few individuals
+- Encourage fear-driven conservatism or over-checking
+- Fail catastrophically under stress, fatigue, or interruption
+
+**Structural Correction**
+
+Robust systems:
+- Encode correctness into defaults
+- Make invalid states unrepresentable
+- Fail fast and visibly
+- Reduce the need for memory, vigilance, or heroics
+
+If success requires constant attention,  
+failure is only a lapse away.
+
+This is not a training problem.  
+It is an architecture problem.
 
 ---
 
