@@ -1,5 +1,14 @@
-# THE YENBUILDS COMPOUND ENGINE
-*A self-optimising system for endless progress with minimal friction*
+# THE YENBUILDS INTP COMPOUND ENGINE
+*(With an Important Disclaimer)*
+
+> **Disclaimer (Read First)**  
+> MBTI is **not a scientifically rigorous personality model**, and neither this classification nor the analysis below should be treated as fact, diagnosis, or destiny.  
+> This is a **descriptive heuristic**, not a predictive law.  
+> Individual differences, environment, skills, discipline, and opportunity matter **far more** than any personality label.  
+> Take everything here with a **large grain of salt**—and use it as a lens for reflection, not identity.
+
+---
+
 
 ---
 
