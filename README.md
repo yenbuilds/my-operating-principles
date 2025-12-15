@@ -3,7 +3,7 @@
 - [Definition of Maturity](yenbuilds-inspirational-maturity-definition.md)
 - [INTP](yenbuilds-inspirational-intp.md)
 - [The Great Levelling](yenbuilds-inspirational-great-levelling.md)
-- [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md)
+- [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
 
 ---
 
