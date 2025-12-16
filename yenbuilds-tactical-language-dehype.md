@@ -20,14 +20,14 @@ with **descriptive / observational words**.
 | Instead of | Prefer |
 |----------|--------|
 | monster | harmful, violent |
-| crazy (person) | unstable |
-| extremist | ideologically motivated |
-| fanatic | ideologically motivated |
-| unhinged | unstable |
-| evil | malicious |
+| crazy (person) | erratic |
+| unhinged | erratic, volatile |
+| evil | malicious, violent |
 | narcissist | self-focused |
 | idiot | mistaken |
 | villain | adversarial |
+| extremist | ideologically motivated |
+| fanatic | ideologically motivated |
 
 ---
 
