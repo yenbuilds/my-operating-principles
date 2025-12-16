@@ -15,6 +15,22 @@ with **descriptive / observational words**.
 
 ---
 
+### Human Caricaturing → Short Behavioral Labels
+
+| Instead of | Prefer |
+|----------|--------|
+| monster | harmful |
+| crazy (person) | unstable |
+| extremist | rigid |
+| fanatic | single-issue |
+| unhinged | dysregulated |
+| evil | harmful, malicious |
+| narcissist | self-focused |
+| idiot | mistaken |
+| villain | adversarial |
+
+---
+
 ### Intensity → Precision
 
 | Instead of | Prefer |
