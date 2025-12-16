@@ -16,6 +16,7 @@
 - [Adaptive Self-Optimisation Loop](yenbuilds-strategic-adaptive-self-optimisation-loop.md)
 - [Forwards We Go](yenbuilds-strategic-forwards-we-go.md)
 - [Resolving Constraint Collisions](yenbuilds-strategic-bounded-progress.md)
+- [AI Command Charter](yenbuilds-strategic-ai-command-charter.md)
 
 ### Tactical (Execution Rules, Operating Mechanics)
 - [Adaptive Technical Suggestion Protocol (ATSP)](yenbuilds-tactical-atsp.md)
