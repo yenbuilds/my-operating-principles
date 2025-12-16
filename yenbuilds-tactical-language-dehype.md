@@ -15,6 +15,18 @@ with **descriptive / observational words**.
 
 ---
 
+### Certainty → Epistemic Humility
+
+| Instead of | Prefer |
+|----------|--------|
+| always | often, tends to |
+| never | rarely, in most cases |
+| obviously | in practice, empirically |
+| clearly | it appears, it seems |
+| proves | suggests, indicates |
+
+---
+
 ### Human Caricaturing → Short Behavioral Labels
 
 | Instead of | Prefer |
@@ -66,18 +78,6 @@ with **descriptive / observational words**.
 | I dominate | I focus on, I specialise in |
 | expert | experienced, practised |
 | authority | working knowledge, familiarity |
-
----
-
-### Certainty → Epistemic Humility
-
-| Instead of | Prefer |
-|----------|--------|
-| always | often, tends to |
-| never | rarely, in most cases |
-| obviously | in practice, empirically |
-| clearly | it appears, it seems |
-| proves | suggests, indicates |
 
 ---
 
