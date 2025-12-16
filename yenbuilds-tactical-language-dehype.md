@@ -19,7 +19,7 @@ with **descriptive / observational words**.
 
 | Instead of | Prefer |
 |----------|--------|
-| monster | harmful, violent |
+| monster | violent |
 | crazy (person) | erratic |
 | unhinged | erratic, volatile |
 | evil | malicious, violent |
