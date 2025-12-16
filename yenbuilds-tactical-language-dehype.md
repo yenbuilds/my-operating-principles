@@ -19,7 +19,7 @@ with **descriptive / observational words**.
 
 | Instead of | Prefer |
 |----------|--------|
-| monster | harmful |
+| monster | harmful, violent |
 | crazy (person) | unstable |
 | extremist | ideologically motivated |
 | fanatic | ideologically motivated |
