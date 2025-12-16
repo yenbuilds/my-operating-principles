@@ -1,10 +1,10 @@
 ### Inspirational (Identity, Framing, Worldview)
+- [Discourse and Exploration](yenbuilds-inspirational-discourse-and-exploration.md)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
 - [Definition of Maturity](yenbuilds-inspirational-maturity-definition.md)
 - [INTP](yenbuilds-inspirational-intp.md)
 - [The Great Levelling](yenbuilds-inspirational-great-levelling.md)
 - [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
-- [Discourse and Exploration](yenbuilds-inspirational-discourse-and-exploration.md) Asking "What is the point?" is the wrong question.
 ---
 
 ### Strategic (Structural Models, Invariants, Direction)
