@@ -27,7 +27,7 @@ with **descriptive / observational words**.
 | idiot | mistaken |
 | villain | adversarial |
 | extremist | ideologically motivated |
-| fanatic | ideologically motivated |
+| fanatic | hardline |
 
 ---
 
