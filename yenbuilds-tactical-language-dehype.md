@@ -21,10 +21,10 @@ with **descriptive / observational words**.
 |----------|--------|
 | monster | harmful |
 | crazy (person) | unstable |
-| extremist | rigid |
-| fanatic | single-issue |
+| extremist | fringe |
+| fanatic | zealot-like |
 | unhinged | dysregulated |
-| evil | harmful, malicious |
+| evil | malicious |
 | narcissist | self-focused |
 | idiot | mistaken |
 | villain | adversarial |
