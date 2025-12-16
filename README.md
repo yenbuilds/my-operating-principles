@@ -4,7 +4,7 @@
 - [INTP](yenbuilds-inspirational-intp.md)
 - [The Great Levelling](yenbuilds-inspirational-great-levelling.md)
 - [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
-
+- [Discourse and Exploration](yenbuilds-inspirational-discourse-and-exploration.md) Exploration requires no permission
 ---
 
 ### Strategic (Structural Models, Invariants, Direction)
