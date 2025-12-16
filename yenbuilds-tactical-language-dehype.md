@@ -21,8 +21,8 @@ with **descriptive / observational words**.
 |----------|--------|
 | monster | harmful |
 | crazy (person) | unstable |
-| extremist | fringe |
-| fanatic | zealot-like |
+| extremist | ideologically motivated |
+| fanatic | ideologically motivated |
 | unhinged | unstable |
 | evil | malicious |
 | narcissist | self-focused |
