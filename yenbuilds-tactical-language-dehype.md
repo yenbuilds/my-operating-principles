@@ -2,7 +2,7 @@
 
 Use this as a simple rule-set to replace intensity, bravado, and marketing language with precise, durable phrasing.
 
-The goal is not to reduce ambition — it is to increase credibility.
+The purpose is to increase credibility, accuracy, and to separate description from moral judgment.
 
 ---
 
