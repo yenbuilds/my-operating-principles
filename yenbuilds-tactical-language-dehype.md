@@ -23,7 +23,7 @@ with **descriptive / observational words**.
 | crazy (person) | unstable |
 | extremist | fringe |
 | fanatic | zealot-like |
-| unhinged | dysregulated |
+| unhinged | unstable |
 | evil | malicious |
 | narcissist | self-focused |
 | idiot | mistaken |
