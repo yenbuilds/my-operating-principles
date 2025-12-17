@@ -21,7 +21,7 @@ Across all domains (work, learning, creative projects, health, relationships), d
 | Context | Encodes lived decision history | Cannot be inferred from outcomes |
 | Data | Time-stamped reality | Cannot be backfilled |
 | Skill | Failure-informed judgment (e.g. injuries) | Requires real mistakes |
-| Reputation | Trust accumulates asymmetrically | Loss is slower than gain |
+| Reputation | Trust accumulates asymmetrically | Loss is slower than gain (unless it's not!) |
 | Network position | Path-dependent relationships | Entry timing matters |
 
 ---
