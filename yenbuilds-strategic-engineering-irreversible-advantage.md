@@ -20,7 +20,7 @@ Across all domains (work, learning, creative projects, health, relationships), d
 |-------------|-----------------|--------------------------|
 | Context | Encodes lived decision history | Cannot be inferred from outcomes |
 | Data | Time-stamped reality | Cannot be backfilled |
-| Skill (with scar tissue) | Failure-informed judgment | Requires real mistakes |
+| Skill (e.g. injuries) | Failure-informed judgment | Requires real mistakes |
 | Reputation | Trust accumulates asymmetrically | Loss is slower than gain |
 | Network position | Path-dependent relationships | Entry timing matters |
 
