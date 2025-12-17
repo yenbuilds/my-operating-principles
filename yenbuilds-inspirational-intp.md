@@ -13,7 +13,7 @@
 
 If forced to pick **one** MBTI type that stands to gain the *largest asymmetric advantage* from advanced AI tools (Grok, Claude, Midjourney, autonomous agents, etc.) over the next decade, the strongest candidate is:
 
-## **INTP — “The Logician / The Architect”**
+## **INTP — “The Logician”**
 
 ---
 
