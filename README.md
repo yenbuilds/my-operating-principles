@@ -1,5 +1,4 @@
 ### Inspirational (Identity, Framing, Worldview)
-- [Discourse and Exploration](yenbuilds-inspirational-discourse-and-exploration.md)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
 - [Definition of Maturity](yenbuilds-inspirational-maturity-definition.md)
 - [INTP](yenbuilds-inspirational-intp.md)
@@ -8,6 +7,7 @@
 ---
 
 ### Strategic (Structural Models, Invariants, Direction)
+- [Engineering Irreversible Advantage](yenbuilds-strategic-engineering-irreversible-advantage.md)
 - [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md) - These principles should be encoded into organisational structure, incentives, and defaults — not rediscovered repeatedly through meetings.
 - [Progress Measurement (Strategic–Tactical Bridge)](yenbuilds-stragtactical-progress-measurement.md)
 - [Inevitable Progress](yenbuilds-strategic-inevitable-progress.md)
