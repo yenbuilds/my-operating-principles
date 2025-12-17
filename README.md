@@ -8,7 +8,7 @@
 
 ### Strategic (Structural Models, Invariants, Direction)
 - [Engineering Irreversible Advantage](yenbuilds-strategic-engineering-irreversible-advantage.md)
-- [Unleveraged Debt](yenbuilds-strategic-unleveraged-debt.md) - How does how we spend time and resources today, make the future easier? If it doesn't, it's not leveraged.
+- [Unleveraged Debt](yenbuilds-strategic-unleveraged-debt.md) - How does how we spend time and resources today, make the **future** easier? If it doesn't, it's not leveraged.
 - [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md) - These principles should be encoded into organisational structure, incentives, and defaults — not rediscovered repeatedly through meetings.
 - [Progress Measurement (Strategic–Tactical Bridge)](yenbuilds-stragtactical-progress-measurement.md)
 - [Inevitable Progress](yenbuilds-strategic-inevitable-progress.md)
