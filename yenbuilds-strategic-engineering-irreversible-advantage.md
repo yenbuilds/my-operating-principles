@@ -72,23 +72,51 @@ is often more valuable than “what happened”.
 
 ---
 
-## 3. Skill Capital with Scar Tissue
+## 3. Skill Capital (Failure-Preserved Learning)
 
-Skills compound fastest when failure is preserved, not erased.
+Skills compound fastest when **failed attempts are preserved rather than erased**.
 
-Archive:
+Most people delete:
 - Early drafts
 - Broken versions
-- Naive attempts
-- Wrong intuitions
+- Naive implementations
+- Considered-but-wrong intuitions
 
-Annotate *after* the fact:
-- What felt hard then
-- What later became obvious
-- When intuition overrode rules (and whether it worked)
+This destroys learning history.
 
-AI can imitate skills.  
-It cannot fake scar tissue.
+Instead, **archive progression**.
+
+### What to Keep
+
+- First-pass drafts and prototypes  
+- Versions that didn’t work  
+- Simplistic or incorrect approaches  
+- Decisions made with incomplete understanding  
+
+These artifacts encode *how* understanding was built, not just the final result.
+
+### Post-Hoc Annotation (Critical)
+
+After time has passed, annotate:
+
+- What felt difficult at the time  
+- What later became obvious  
+- Which rules you followed initially  
+- When intuition overrode rules  
+- Whether those deviations worked or failed  
+
+This creates **compressed judgment** — the ability to see patterns faster next time and prune bad paths earlier.
+
+### Why This Compounds
+
+- Understanding becomes transferable across domains  
+- Decision latency drops  
+- Error detection improves before failure occurs  
+
+AI can reproduce correct solutions.  
+It cannot reconstruct the *sequence of mistakes that led to correct judgment*.
+
+That sequence is the asset.
 
 ---
 
