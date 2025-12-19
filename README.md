@@ -18,6 +18,7 @@
 - [Forwards We Go](yenbuilds-strategic-forwards-we-go.md)
 - [Resolving Constraint Collisions](yenbuilds-strategic-bounded-progress.md)
 - [AI Command Charter](yenbuilds-strategic-ai-command-charter.md)
+- [Train Mind for AI](yenbuilds-strategic-train-mind-for-ai.md)
 
 ### Tactical (Execution Rules, Operating Mechanics)
 - [Adaptive Technical Suggestion Protocol (ATSP)](yenbuilds-tactical-atsp.md)
