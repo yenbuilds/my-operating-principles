@@ -1,5 +1,5 @@
 # Cognitive Profiles Most Amplified by AI  
-and  
+  
 # Why Certain Cognitive Styles Experience Relief Rather Than Threat
 
 AI does not amplify all humans uniformly.  
