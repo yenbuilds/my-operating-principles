@@ -133,7 +133,7 @@ Keep a friction log:
 - What feels draining?
 - What feels effortless?
 
-Design around your mind, not an ideal one.
+Design around YOUR mind, not an ideal one.
 
 **Avoid**  
 Copying other people’s workflows blindly.
