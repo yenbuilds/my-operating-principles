@@ -1,3 +1,11 @@
+**Disclosure & Authorship**
+
+This work was created using a combination of human judgment and AI-assisted tools.
+
+AI was used as a thinking aid, drafting partner, and accelerator — not as an autonomous author. All direction, selection, integration, and final responsibility for this work are mine.
+
+I stand behind the ideas, structure, and outcomes presented here regardless of the tools used.
+
 ### Inspirational (Identity, Framing, Worldview)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
 - [Definition of Maturity](yenbuilds-inspirational-maturity-definition.md)
