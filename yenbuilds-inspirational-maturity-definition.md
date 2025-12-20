@@ -3,9 +3,8 @@
 Maturity is commonly treated as something that arrives automatically with age.  
 That time itself smooths us out, adds wisdom, and deepens understanding.
 
-This belief is comforting — and mostly false.
+But in my opinion, what usually develops over time is not depth of thought, but **stability of behavior**.  
 
-What usually develops over time is not depth of thought, but **stability of behavior**.  
 Those are not the same thing.
 
 ---
@@ -21,6 +20,7 @@ In everyday language, a “mature” person is someone who:
 - Has learned not to repeat obvious mistakes  
 
 This version of maturity is real and valuable.  
+
 But it is also **incomplete**.
 
 It describes someone who has learned to function smoothly *within* an existing system — not someone who understands the system itself.
@@ -148,7 +148,9 @@ A broader definition of maturity might be this:
 > and how deliberately you choose to participate.
 
 By this definition, maturity is not guaranteed by age.  
+
 It is not evenly distributed.  
+
 And it is not something you “arrive at” once and for all.
 
 It is a practice.
@@ -167,4 +169,5 @@ It can feel like discovering something obvious too late.
 Often, the opposite is true.
 
 They have not arrived late to maturity.  
+
 They have simply discovered that what is commonly called “maturity” was never the whole thing.
