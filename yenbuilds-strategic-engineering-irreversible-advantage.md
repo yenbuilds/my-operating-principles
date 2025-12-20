@@ -43,8 +43,7 @@ These apply to **any domain**, not just software:
 - `SURPRISES.log` — expectation violations  
 - `MODEL_UPDATES.log` — how your mental model changed  
 
-Most people forget their own evolution.  
-This preserves learning velocity.
+Many people forget their own evolution. This preserves learning velocity.
 
 ---
 
