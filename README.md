@@ -96,14 +96,13 @@ Those are irrelevant variables.
 
 You need a **structural fix**.
 
-Address the structure rationally and immediately.
+Address the structural problems ASAP.
 
 ---
 
 ### Example: Repeated LLM Output Failures
 
 If an LLM keeps producing broken markdown, do not get flustered.  
-That reaction is noise.
 
 Instead:
 - Add a prompt wrapper  
@@ -131,5 +130,4 @@ Weaknesses impose a tax in **every** condition.
 Remove bottlenecks instead of chasing upside.  
 Design systems that function in low-energy states, not peak motivation.
 
-Eliminate downside.  
-Let upside take care of itself.
+Eliminate downside. Let upside take care of itself.
