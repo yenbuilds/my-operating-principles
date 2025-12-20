@@ -1,5 +1,5 @@
 # Engineering Irreversible Advantage  
-## A General Framework for Creating Compounding Positions in Work and Life
+## A General Framework for Creating Compounding Positions
 
 ---
 
@@ -54,12 +54,11 @@ Data is a moat when **time is embedded**.
 It does not need to be large.  
 It needs to be old and real.
 
-### Examples Across Life & Work
+### Examples
 
 - Flight logs, telemetry, behavioural traces  
 - Learning logs (what, when, outcome)  
 - Creative output metrics and decay curves  
-- Health experiments (sleep, pain, training response)  
 - Predictions vs outcomes  
 - Mood/energy vs productivity correlations  
 
@@ -155,27 +154,6 @@ Networks are moats because:
 - Connect people with memory, not just introductions  
 
 The most valuable node is often the one that remembers.
-
----
-
-## Life-Level Generalisation
-
-Prefer actions that move you onto trajectories that are hard to reverse — in a good way.
-
-### Actions That Create Good Irreversibility
-
-- Publishing (creates history)  
-- Teaching (forces crystallisation)  
-- Building in public (locks identity)  
-- Making commitments with sunk cost  
-- Choosing learning paths that stack  
-
-### Actions That Do Not Compound
-
-- Pure consumption  
-- Endless option preservation  
-- Anonymous output  
-- Low-stakes novelty  
 
 ---
 
