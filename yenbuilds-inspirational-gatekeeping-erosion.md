@@ -127,8 +127,6 @@ Over the next few decades, calculus will lose its gatekeeping power through seve
 5. **Model pluralism**  
    Fields increasingly mix discrete, probabilistic, and simulation-based models—areas where calculus is only one tool among many.
 
-Calculus will remain important, but it will no longer sit alone at the gate.
-
 ---
 
 ## A More Honest Role for Calculus
