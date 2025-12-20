@@ -10,7 +10,7 @@ I stand behind the ideas and outcomes presented here regardless of the tools use
 > These principles apply within the context of building, thinking, and creating, and may be overridden when life requires it. This repository is not the place for broader life discourse.
 
 > [!CAUTION]
-> CAUTION! These ideas are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing here is held sacred! It's a living, breathing set of principles that can morph with me. I have found it helpful in my life to try to avoid rigidity of thought.
+> CAUTION! These ideas are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing here is held sacred! It's a living, breathing set of principles that can morph with me. I have found it helpful to try to avoid rigidity of thought.
 
 ### Inspirational (Identity, Framing, Worldview)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
