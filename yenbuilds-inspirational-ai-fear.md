@@ -139,6 +139,4 @@ AI does not primarily reward higher intelligence.
 
 It rewards cognitive systems whose internal representations were already more advanced than their available tools.
 
-For these individuals, AI does not alter capability.
-
-It removes the bottleneck that was suppressing it.
+For these individuals, AI does not simply alter capability - rather it potentially has a transformative effect.
