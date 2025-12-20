@@ -17,13 +17,13 @@ Traditional education runs on a **scarcity model of execution**. Writing clean c
 Students with high executive function — the ability to organize, plan, and regulate their focus — have long held a massive advantage. They are the **Human CPUs**: fast, accurate, and consistent. In a world where high-fidelity output was scarce and difficult to produce, these students were invaluable.
 
 But generative AI is an **infinite, low-cost CPU**. And it excels exactly where the traditional elite student excels:  
-- syntax  
-- grammar  
-- factual retrieval  
-- structural organization  
-- error-free execution under constraints  
 
-When a tool can instantly structure an essay or debug code, the student whose primary skill is “doing the homework perfectly” loses their moat. Their execution advantage — once rare — becomes a default feature of everyday software.
+- mental computation  
+- fast and accurate mental factual retrieval  
+- structural organization
+- error-free execution under constraints (especially time)
+
+When a tool can instantly structure an essay or debug code, the student whose primary skill is “doing the homework perfectly” weakens this moat. The execution advantage — once rare — becomes a feature of common software.
 
 ---
 
@@ -83,10 +83,9 @@ New rigour:
 - evaluating competing models  
 - refining the *quality* of the idea itself  
 
-The “messy” thinker can no longer say:  
-“I had a good idea but couldn’t express it.”
+The “messy” thinker can no longer say:  “I had a good idea but couldn’t express it.”
 
-The tools now remove that excuse.
+Modern tools now remove that excuse.
 
 As polished output becomes universal, the **bar for originality** rises.  
 The traditionally brilliant student must evolve beyond relying on speed and precision.  
