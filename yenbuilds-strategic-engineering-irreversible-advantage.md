@@ -65,10 +65,9 @@ It needs to be old and real.
 - Mood/energy vs productivity correlations  
 
 **Rule:**  
-Only collect data that future-you will want to interrogate.
+Collect data that future-you will want to interrogate.
 
-“What did I believe at the time?”  
-is often more valuable than “what happened”.
+“What did I believe at the time?” is often more valuable than “what happened”.
 
 ---
 
