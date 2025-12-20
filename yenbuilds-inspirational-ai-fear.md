@@ -10,7 +10,7 @@ Below are cognitive profiles that tend to experience relief, clarity, and accele
 Primary strength: abstract pattern recognition
 
 Characteristics  
-- Strong ability to perceive systems, relationships, and high-level structure  
+- Cognitive perference: perceive systems, relationships, and high-level structure  
 - Ideas often arrive as compressed intuitions rather than articulated steps  
 - Historically constrained by the effort required to externalize thought
 
@@ -26,7 +26,7 @@ Cognitive relief due to reduced translation friction.
 Primary strength: deep understanding with low tolerance for cognitive clutter
 
 Characteristics  
-- Strong grasp of concepts  
+- Cognitive preference for concepts  
 - Difficulty holding long procedural chains in active memory  
 - Fatigue from detailed stepwise reasoning
 
