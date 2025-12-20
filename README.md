@@ -5,7 +5,7 @@ This work was created using a combination of human judgment and AI tools.
 I stand behind the ideas and outcomes presented here regardless of the tools used.
 
 > [!IMPORTANT]
-> VERY IMPORTANT! Life is larger than any system or project.
+> IMPORTANT! Life is larger than any system or project.
 > Family, friends, health, and relationships take precedence over work.
 > These principles apply within the context of building, thinking, and creating, and may be overridden when life requires it. This repository is not the place for broader life discourse.
 
