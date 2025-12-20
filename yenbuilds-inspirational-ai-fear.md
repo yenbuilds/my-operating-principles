@@ -22,7 +22,7 @@ Mechanism of amplification
 Observed response  
 Cognitive relief due to reduced translation friction.
 
-## 2. High-Insight, Limited Working-Memory Profiles  
+## 2. Lower Working-Memory Types  
 Primary strength: deep understanding with low tolerance for cognitive clutter
 
 Characteristics  
@@ -120,7 +120,7 @@ Relief responses correlate with identity anchored to
 - Synthesis across domains  
 - Outcome quality
 
-AI devalues the former and amplifies the latter.
+AI, in its current state, tends to amplify the latter.
 
 ## Underlying Psychological Explanation
 
