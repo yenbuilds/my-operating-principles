@@ -9,7 +9,7 @@
 
 ---
 
-## The MBTI Type Most Likely to Benefit from Advanced AI
+## The MBTI Type Most Likely to Benefit from Advanced AI (in my opinion)
 
 If forced to pick **one** MBTI type that stands to gain the *largest asymmetric advantage* from advanced AI tools (Grok, Claude, Midjourney, autonomous agents, etc.) over the next decade, the strongest candidate in my rather biased opinion, is:
 
@@ -114,11 +114,11 @@ Rather than pushing into unexplored territory.
 
 ## Bottom Line
 
-AI appears uniquely suited to:
+IMHO, AI appears uniquely suited to:
 - **Fix the INTP’s historical Achilles’ heel** (execution)
 - **Supercharge their core strength** (deep conceptual exploration)
 
-No other MBTI type seems to receive such a **disproportionate multiplier** from the same tools.
+No other MBTI type seems to receive such a **disproportionate multiplier** from the same tools. It gives the INTP some of that secret INTJ jet fuel.
 
 ---
 
