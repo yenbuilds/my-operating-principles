@@ -10,7 +10,7 @@
 ---
 
 ## I. Core Philosophy
-Extreme INTPs don’t thrive on motivation or discipline. They thrive when friction is removed, activation energy is near zero, context stays warm, and ideas naturally turn into reusable systems. The INTP Compound Engine is an operating system built around these truths.
+INTPs don’t thrive on motivation or discipline. They thrive when friction is removed, activation energy is near zero, context stays warm, and ideas naturally turn into reusable systems. The INTP Compound Engine is an operating system built around these truths.
 
 ---
 
