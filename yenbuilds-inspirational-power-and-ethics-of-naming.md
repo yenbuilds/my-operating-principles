@@ -1,13 +1,13 @@
 # Naming and Its Power  
 ## How Words Shape Personal Reality — and How They Are Misused at Scale
 
-Naming is not a cosmetic act.  
+Naming is not a trivial act.  
 It is an act of compression, framing, and commitment.
 
 When something is unnamed, it remains fluid, negotiable, and deniable.  
 When something is named, it becomes a *thing* — with edges, implications, and consequences.
 
-This is why naming feels powerful.  
+This is why naming is powerful.  
 And why it can be dangerous.
 
 ---
