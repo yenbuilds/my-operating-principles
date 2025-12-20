@@ -128,6 +128,7 @@ Strengths only pay off under ideal conditions.
 Weaknesses impose a tax in **every** condition.
 
 Remove bottlenecks instead of chasing upside.  
+
 Design systems that function in low-energy states, not peak motivation.
 
 Eliminate downside. Let upside take care of itself.
