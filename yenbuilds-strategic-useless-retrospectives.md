@@ -205,11 +205,9 @@ Robust systems:
 - Fail fast and visibly
 - Reduce the need for memory, vigilance, or heroics
 
-If success requires constant attention,  
-failure is only a lapse away.
+If success requires constant attention, failure is only a mental lapse away.
 
-This is not a training problem.  
-It is an architecture problem.
+This is not a training problem. It is an architecture problem.
 
 ---
 
