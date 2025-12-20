@@ -1,10 +1,10 @@
 **Disclosure & Authorship**
 
-This work was created using a combination of human judgment and AI-assisted tools.
+This work was created using a combination of human judgment and AI tools.
 
-AI was used as a thinking aid, drafting partner, and accelerator — not as an autonomous author. All direction, selection, integration, and final responsibility for this work are mine.
+I stand behind the ideas and outcomes presented here regardless of the tools used.
 
-I stand behind the ideas, structure, and outcomes presented here regardless of the tools used.
+Also - these are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing is held sacred!
 
 ### Inspirational (Identity, Framing, Worldview)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
