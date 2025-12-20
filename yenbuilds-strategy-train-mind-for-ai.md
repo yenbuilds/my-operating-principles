@@ -1,6 +1,7 @@
 # Thinking for the Age of AI (and Beyond)
 
 This is not about productivity, tools, or tactics.  
+
 This is about **cognitive posture** — the thinking modes that *compound* in an AI-accelerated world, and how to train your mind to default into them automatically.
 
 ---
@@ -286,12 +287,5 @@ Stop optimizing execution.
 Start optimizing frames, leverage, and accumulation.
 
 AI makes execution abundant.  
+
 Human advantage moves up the abstraction ladder.
-
----
-
-Possible next steps:
-- Convert this into personal operating principles
-- Build a daily 15–30 minute cognitive training routine
-- Design a reusable “thinking OS”
-- Map which modes are already defaults vs growth edges
