@@ -4,7 +4,7 @@ This work was created using a combination of human judgment and AI tools.
 
 I stand behind the ideas and outcomes presented here regardless of the tools used.
 
-VERY IMPORTANT! These ideas are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing is held sacred!
+VERY IMPORTANT! These ideas are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing here is held sacred! It's a living, breathing set of principles that can morph with me.
 
 ### Inspirational (Identity, Framing, Worldview)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
