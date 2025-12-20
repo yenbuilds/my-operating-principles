@@ -1,4 +1,4 @@
-# THE YENBUILDS INTP COMPOUND ENGINE
+# THE INTP COMPOUND ENGINE
 *(With an Important Disclaimer)*
 
 > **Disclaimer (Read First)**  
@@ -173,7 +173,8 @@ It multiplies strengths and neutralises weak points.
 ## X. Prime Directive
 **Design the system so progress continues even in low-energy states.**
 
-If your progress depends on “motivated you,” the system is weak.  
+If your progress depends on “motivated you,” the system is weak.
+
 If progress happens even when tired, bored, stressed, or scattered, the system is perfect.
 
 ---
