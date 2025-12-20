@@ -4,6 +4,10 @@ This work was created using a combination of human judgment and AI tools.
 
 I stand behind the ideas and outcomes presented here regardless of the tools used.
 
+VERY IMPORTANT! Life is larger than any system or project.
+Family, friends, health, and relationships take precedence over work and work-like pursuits.
+These principles apply within a specific context — building things, working in ideas, and creating — and may be overridden whenever life requires it.
+
 VERY IMPORTANT! These ideas are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing here is held sacred! It's a living, breathing set of principles that can morph with me. I have found it helpful in my life to try to avoid rigidity of thought.
 
 ### Inspirational (Identity, Framing, Worldview)
