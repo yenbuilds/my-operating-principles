@@ -1,9 +1,8 @@
 # Cognitive Profiles Most Amplified by AI  
   
-# Why Certain Cognitive Styles Experience Relief Rather Than Threat
+## Why Certain Cognitive Styles May Experience Relief Rather Than Threat
 
-AI does not amplify all humans uniformly.  
-It preferentially enhances individuals whose primary constraint was translation, execution bandwidth, or cognitive load, rather than insight or judgment.
+AI may preferentially benefit those whose primary constraint was translation, execution bandwidth, or cognitive load, rather than insight or judgment.
 
 Below are cognitive profiles that tend to experience relief, clarity, and acceleration rather than psychological threat.
 
