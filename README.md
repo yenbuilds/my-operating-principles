@@ -14,7 +14,6 @@ I stand behind the ideas and outcomes presented here regardless of the tools use
 
 ### Inspirational (Identity, Framing, Worldview)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
-- [Definition of Maturity](yenbuilds-inspirational-maturity-definition.md)
 - [INTP](yenbuilds-inspirational-intp.md)
 - [The Great Levelling](yenbuilds-inspirational-great-levelling.md)
 - [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
