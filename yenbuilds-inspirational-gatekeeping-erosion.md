@@ -13,7 +13,7 @@ In theory, calculus is a profound intellectual achievement: a formal language fo
 Instead, it has served three implicit functions:
 
 1. **Sorting**  
-   Calculus separates students into “STEM-capable” and “non-STEM-capable” tracks, often permanently.
+   Calculus can implicitly separate students into “STEM-capable” and “non-STEM-capable” tracks, often.
 
 2. **Signaling endurance**  
    Success in calculus is treated as evidence of intelligence, discipline, and suitability for advanced study—regardless of whether the student understands the underlying concepts.
