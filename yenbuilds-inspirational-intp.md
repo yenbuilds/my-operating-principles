@@ -18,7 +18,7 @@ If forced to pick **one** MBTI type that stands to gain the *largest asymmetric 
 
 ---
 
-## Why INTPs “Win the AI Lottery”
+## Why INTPs Might Have Won an AI Lottery
 
 ### 1. Insatiable Curiosity + Pattern-Seeking Mind
 INTPs are driven by a need to *understand how systems work*.  
