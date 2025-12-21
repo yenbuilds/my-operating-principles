@@ -10,11 +10,11 @@
 
 ---
 
-## The MBTI Type Most Likely to Benefit from Advanced AI (in my opinion)
+## The MBTI Type Most Likely to Benefit from Advanced AI (in my biased opinion)
 
-If forced to pick **one** MBTI type that stands to gain the *largest asymmetric advantage* from advanced AI tools (ChatGPT, Grok, Claude, Midjourney, autonomous agents, etc.) over the next decade, the strongest candidate in my rather biased opinion, is:
+If forced to pick **one** MBTI type that stands to gain the *largest asymmetric advantage* from advanced AI tools (ChatGPT, Grok, Claude, Midjourney, autonomous agents, etc.) over the next decade, a strong candidate in my rather biased opinion, is:
 
-## **INTP — “The Logician”**
+## **INTP***
 
 ---
 
