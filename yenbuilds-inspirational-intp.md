@@ -88,16 +88,16 @@ Extremely strong fit with AI, but they were already effective.
 AI increases efficiency, not capability range.
 
 ### **ENTP**
-Explodes with ideas and creativity—but risks even *more* scatter without completion.
+Explodes with unique ideas and creativity—but risks even *more* scatter without completion.
 
 ### **INFJ / INFP**
-Powerful for their powerful creativity and self-exploration, but may face:
+Powerful for their strong creativity and self-exploration, but may face:
 - Choice paralysis
 - Ethical overthinking
 - Emotional overload from infinite options
 
 ### **ISTJ / ISFJ**
-Highly reliable AI users, but typically focused on:
+Highly reliably AI users, but typically focused on:
 - Reliable and responsible improvements
 - Making Established workflows even better.
 
