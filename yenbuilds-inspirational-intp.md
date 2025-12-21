@@ -92,7 +92,7 @@ Explodes with unique ideas and creativity—but risks even *more* scatter withou
 Have strengths that AI is not effective at eg. real time communication skills, high charisma
 
 ### **INFJ / INFP**
-Powerful for their strong creativity and self-exploration, but may face:
+Powerful for their strong and unique creativity and self-exploration, but AI may cause:
 - Choice paralysis
 - Ethical overthinking
 - Emotional overload from infinite options
