@@ -105,11 +105,11 @@ Highly reliable AI users, but typically focused on:
 
 ## Bottom Line
 
-IMHO, AI appears uniquely suited to:
-- **Fix the INTP’s historical Achilles’ heel** (execution)
+IMHO, AI appears suited to:
+- **Fix the INTP’s major execution weakness 
 - **Supercharge their core strength** (deep conceptual exploration)
 
-No other MBTI type seems to receive such a **disproportionate multiplier** from the same tools. It gives the INTP some of that secret INTJ jet fuel.
+The type seems to receive a **disproportionate multiplier** from the same tools. It gives the INTP some of that secret INTJ jet fuel.
 
 ---
 
