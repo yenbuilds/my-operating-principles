@@ -29,7 +29,7 @@ When a tool can instantly structure an essay or debug code, the student whose pr
 
 ## 2. The Rise of the Conceptual Thinker
 
-On the other side of the cognitive spectrum is the **conceptual thinker**. These students often possess high fluid reasoning, deep pattern recognition, and intuitive synthesis — but may have lower processing speed or weaker working memory.
+On the other side of the cognitive spectrum is the **conceptual thinker**. These students often prefer conceptual reasoning, deep pattern recognition, and intuitive synthesis — but may have lower processing speed or weaker working memory.
 
 In the old regime, these students were disadvantaged:
 - They might understand the deep interconnectedness of a history topic but lose marks due to disorganization.  
