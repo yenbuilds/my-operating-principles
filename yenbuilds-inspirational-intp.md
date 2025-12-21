@@ -34,12 +34,12 @@ AI effectively becomes a **permanent research partner** that matches their appet
 
 ### 2. Historical Weak Spot: Execution & Follow-Through (Inferior Te)
 INTPs are infamous for:
-- Brilliant ideas
+- lots of often random ideas
 - Half-finished projects
-- Endless internal refinement that never exits the mind
+- Endless internal thought that never exits the mind
 
 AI directly patches this weakness:
-- Turns vague thoughts into runnable code
+- Turns vague - often poorly developed thoughts - into runnable code
 - Converts abstractions into prototypes
 - Produces drafts, plans, scaffolds, and summaries in minutes
 
