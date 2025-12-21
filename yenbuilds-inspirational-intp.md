@@ -76,15 +76,6 @@ The result is a **feedback loop** that previously required entire teams or years
 
 ---
 
-### 5. Real-World Signals Already Emerging
-Patterns seen today:
-- Solo founders building highly leveraged products
-- Indie researchers publishing at near-lab scale
-- One-person startups reaching meaningful revenue quickly
-
-A disproportionate number of these individuals self-identify as **INTP or INTJ**.
-
-However:
 - **INTJs** already had exceptional execution discipline → AI = huge boost 
 - **INTPs** had the largest execution gap → AI = transformative
 
