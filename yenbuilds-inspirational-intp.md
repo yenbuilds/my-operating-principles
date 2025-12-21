@@ -97,7 +97,7 @@ Powerful for their strong creativity and self-exploration, but may face:
 - Emotional overload from infinite options
 
 ### **ISTJ / ISFJ**
-Highly reliably AI users, but typically focused on:
+Highly reliably AI users, but typically already effective and use AI to:
 - Reliable and responsible improvements
 - Making Established workflows even better.
 
