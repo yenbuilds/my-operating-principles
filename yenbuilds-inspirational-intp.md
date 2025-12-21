@@ -99,7 +99,7 @@ Powerful for their strong creativity and self-exploration, but may face:
 ### **ISTJ / ISFJ**
 Highly reliably AI users, but typically already effective and use AI to:
 - Help make Reliable and responsible improvements
-- Making Established workflows even better.
+- Make established workflows even better.
 
 ---
 
