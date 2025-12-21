@@ -85,7 +85,7 @@ Patterns seen today:
 A disproportionate number of these individuals self-identify as **INTP or INTJ**.
 
 However:
-- **INTJs** already had execution discipline → AI = huge boost 
+- **INTJs** already had exceptional execution discipline → AI = huge boost 
 - **INTPs** had the largest execution gap → AI = transformative
 
 ---
@@ -100,16 +100,15 @@ AI increases efficiency, not capability range.
 Explodes with ideas and creativity—but risks even *more* scatter without completion.
 
 ### **INFJ / INFP**
-Powerful for creativity and self-exploration, but may face:
+Powerful for their powerful creativity and self-exploration, but may face:
 - Choice paralysis
 - Ethical overthinking
 - Emotional overload from infinite options
 
 ### **ISTJ / ISFJ**
 Highly reliable AI users, but typically focused on:
-- Incremental improvements
-- Established workflows  
-Rather than pushing into unexplored territory.
+- Reliable and responsible improvements
+- Making Established workflows even better.
 
 ---
 
