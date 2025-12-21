@@ -94,8 +94,8 @@ Have strengths that AI is not effective at eg. real time communication skills, h
 ### **INFJ / INFP**
 Powerful for their strong and unique creativity and self-exploration, but AI may cause:
 - Choice paralysis
-- Ethical overthinking
-- Emotional overload from infinite options
+- Ethical fatigue
+- overload from infinite options
 
 ### **ISTJ / ISFJ**
 Highly reliably AI users, but typically already effective and use AI to:
