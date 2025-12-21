@@ -32,9 +32,9 @@ AI effectively becomes a **permanent research partner** that matches their appet
 
 ---
 
-### 2. Historical Weak Spot: Execution & Follow-Through (Inferior Te)
+### 2. Weak Spot: Execution & Follow-Through (Inferior Te)
 INTPs are infamous for:
-- lots of often random ideas
+- lots of often random ideas, some that get talked out loud despite still making little sense 
 - Half-finished projects
 - Endless internal thought that never exits the mind
 
