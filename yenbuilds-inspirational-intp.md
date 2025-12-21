@@ -84,12 +84,12 @@ Patterns seen today:
 A disproportionate number of these individuals self-identify as **INTP or INTJ**.
 
 However:
-- **INTJs** already had execution discipline → AI = ~5× boost  
-- **INTPs** had the largest execution gap → AI = **10–50× boost**
+- **INTJs** already had execution discipline → AI = huge boost 
+- **INTPs** had the largest execution gap → AI = transformative
 
 ---
 
-## Close Runners-Up (and Why They Lose to INTP)
+## Close Runners-Up
 
 ### **INTJ**
 Extremely strong fit with AI, but they were already effective.  
