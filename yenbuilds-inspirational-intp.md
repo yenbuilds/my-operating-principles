@@ -89,7 +89,7 @@ AI increases efficiency, not capability range.
 
 ### **ENTP**
 Explodes with unique ideas and creativity—but risks even *more* scatter without completion.
-Have strengths that AI is not effective at enhancing eg. real time communication skills, high charisma
+Have strengths that AI is not effective at eg. real time communication skills, high charisma
 
 ### **INFJ / INFP**
 Powerful for their strong creativity and self-exploration, but may face:
