@@ -6,6 +6,7 @@
 > This is a **descriptive heuristic**, not a predictive law.  
 > Individual differences, environment, skills, discipline, and opportunity matter **far more** than any personality label.  
 > Take everything here with a **large grain of salt**—and use it as a lens for reflection, not identity.
+> Everything here is opinion.
 
 ---
 
