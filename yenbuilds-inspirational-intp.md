@@ -1,4 +1,4 @@
-# Why INTPs May Benefit Disproportionately from Advanced AI Tools  
+# INTPs and AI
 *(With an Important Disclaimer)*
 
 > **Disclaimer (Read First)**  
