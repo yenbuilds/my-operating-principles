@@ -1,6 +1,6 @@
 # Historically “Correct” Beliefs That Still Failed Under Modern Science & Ethics
 
-This list is **strictly filtered** to cases where ideas were considered *scientifically grounded, rational, and ethical by the standards of modernity at the time* — not ancient superstition or pre-scientific belief — yet still turned out to be deeply wrong.
+This list is **strictly filtered** to cases where ideas were considered *scientifically grounded, rational, and ethical by the standards of modernity at the time* — not ancient superstition or pre-scientific belief — yet still turned out to be DEEPLY WRONG.
 
 ---
 
