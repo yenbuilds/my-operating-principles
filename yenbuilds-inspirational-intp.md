@@ -100,6 +100,8 @@ Highly reliably AI users, but typically already effective and use AI to:
 - Make established workflows even better.
 - Have strenghts such as proficiency with real world tools (e.g. good with fixing cars or good at handy work), that AI cannot compete with.
 
+There's heaps of other types, but this is just an example and I'm not going to go exhaustive on this.
+
 ---
 
 ## Bottom Line
