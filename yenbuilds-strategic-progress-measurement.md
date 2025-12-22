@@ -138,4 +138,3 @@ This system exists to:
 - Reduce rabbit holes
 - Enable quiet, compounding velocity
 
-YenBuilds is measured by **what becomes impossible to lose**, not by what gets built quickly.
