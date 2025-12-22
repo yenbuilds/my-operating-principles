@@ -1,4 +1,4 @@
-# Measuring Progress in the YenBuilds MSFS Platform
+# Measuring Progress in the Flight Sim Tools Platform
 
 YenBuilds is not a feature-driven product.  
 It is a **compounding platform**.
