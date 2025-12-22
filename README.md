@@ -23,4 +23,4 @@ I stand behind the ideas presented here regardless of the tools used.
 ### Other Musings
 - [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
-- [INTP](yenbuilds-inspirational-intp.md)
+- [INTP Reflection & Development](yenbuilds-inspirational-intp.md)
