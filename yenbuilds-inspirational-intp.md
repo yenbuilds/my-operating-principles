@@ -114,13 +114,9 @@ The type seems to receive a **disproportionate multiplier** from the same tools.
 
 ### The paradox
 
-The types least helped by AI often:
-	•	Feel most threatened by it
-	•	But are also the hardest to replace
+The types least helped by AI often -> Feel most threatened by it -> But are also the hardest to replace
 
-While the types most helped by AI:
-	•	Feel energized
-	•	But risk over-identification with abstraction
+While the types most helped by AI -> Feel energized -> But risk over-identification with abstraction
   
 ---
 
