@@ -1,4 +1,4 @@
-# Structural Retrospectives (Why Most “Lessons Learned” Are Useless)
+# Structural Retrospectives
 
 Retrospectives are **worse than useless** if they focus on one-off mistakes, edge cases, or narrative explanations.  
 They create the *illusion* of learning while guaranteeing recurrence.
