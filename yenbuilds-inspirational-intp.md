@@ -71,7 +71,7 @@ The result is a **feedback loop** that previously required entire teams or years
 ---
 
 - **INTJs** already had exceptional execution discipline → AI = huge boost 
-- **INTPs** had the largest execution gap → AI = transformative
+- **INTPs** had the largest execution gap → AI = transformative (well, I hope so, that gives me an ego boost 😂 )
 
 ---
 
