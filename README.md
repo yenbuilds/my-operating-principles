@@ -14,14 +14,12 @@ I stand behind the ideas and outcomes presented here regardless of the tools use
 
 
 ### Strategic (Structural Models, Invariants, Direction)
-- [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md) - These principles should be encoded into organisational structure, incentives, and defaults — not rediscovered repeatedly through meetings.
+- [Master Spine Model](yenbuilds-strategic-master-spine-model.md)
 - [Progress Measurement (Strategic–Tactical Bridge)](yenbuilds-stragtactical-progress-measurement.md)
 - [Inevitable Progress](yenbuilds-strategic-inevitable-progress.md)
-- [INTP Compound Engine](yenbuilds-strategic-intp-compound-engine.md)
-- [Master Spine Model](yenbuilds-strategic-master-spine-model.md)
 - [Resolving Constraint Collisions](yenbuilds-strategic-bounded-progress.md)
-- [Unleveraged Debt](yenbuilds-strategic-unleveraged-debt.md) - How does the way we spend time and resources today, make the **future** easier? If it doesn't, it's not leveraged.
-
+- [Unleveraged Debt](yenbuilds-strategic-unleveraged-debt.md)
+- [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md) - A how to learn doc
 
 ### Other Musings
 - [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
