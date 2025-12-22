@@ -14,7 +14,7 @@ I stand behind the ideas presented here regardless of the tools used.
 
 ### Strategic (Structural Models, Invariants, Direction)
 - [Master Spine Model](yenbuilds-strategic-master-spine-model.md)
-- [Progress Measurement (Strategic–Tactical Bridge)](yenbuilds-stragtactical-progress-measurement.md)
+- [Progress Measurement)](yenbuilds-strategic-progress-measurement.md)
 - [Inevitable Progress](yenbuilds-strategic-inevitable-progress.md)
 - [Resolving Constraint Collisions](yenbuilds-strategic-bounded-progress.md)
 - [Unleveraged Debt](yenbuilds-strategic-unleveraged-debt.md)
