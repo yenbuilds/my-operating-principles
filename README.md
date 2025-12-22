@@ -3,13 +3,8 @@
 This work was created using a combination of human judgment and AI...
 I stand behind the ideas presented here regardless of the tools used.
 
-> [!IMPORTANT]
-> IMPORTANT! Life is larger than any system or project.
-> Family, friends, health, and relationships take precedence over work.
-> These principles apply within the context of building, thinking, and creating, and may be overridden when life requires it. This repository is not the place for broader life discourse.
-
 > [!CAUTION]
-> CAUTION! These ideas are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing here is held sacred! It's a living, breathing set of principles that can morph with me. I have found it helpful to try to avoid rigidity of thought. If nothing is ever being deleted, then this repo's as good as dead!
+> These ideas are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing here is held sacred! It's a living, breathing set of principles that can morph with me. I have found it helpful to try to avoid rigidity of thought. If nothing is ever being deleted, then this repo's as good as dead!
 
 As it's a git repo, obviously history is kept. I think it's good to see the mistakes of the past and how stuff's evolved over time. From time to time there will be days where do huge deletions and trim it down to the useful words, and do a circuit-breaker sweels that sort of act as circuit breakers, ensuring the content doesn’t drift into excessive abstraction, rigid identity framing, or self-referential philosophy!
 
@@ -25,3 +20,8 @@ As it's a git repo, obviously history is kept. I think it's good to see the mist
 - [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (many should find this inspiring.)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
 - [INTP Reflection & Development](yenbuilds-inspirational-intp.md)
+
+> [!IMPORTANT]
+> Life is larger than any system or project.
+> Family, friends, health, and relationships take precedence over work.
+> These principles apply within the context of building, thinking, and creating, and may be overridden when life requires it. This repository is not the place for broader life discourse.
