@@ -10,15 +10,11 @@
 
 ---
 
-## The MBTI Type Most Likely to Benefit from Advanced AI (in my biased opinion)
-
-If forced to pick **one** MBTI type that stands to gain the *largest asymmetric advantage* from advanced AI tools (ChatGPT, Grok, Claude, Midjourney, autonomous agents, etc.) over the next decade, a strong candidate in my rather biased opinion, is:
-
 ## **INTP***
 
 ---
 
-## Why INTPs Might Have Won an AI Lottery
+## INTPs and how they can benefit from AI
 
 ### 1. Insatiable Curiosity + Pattern-Seeking Mind
 INTPs are driven by a need to *understand how systems work*.  
@@ -81,26 +77,28 @@ The result is a **feedback loop** that previously required entire teams or years
 
 ---
 
-## Some Other MBTI types 
+## Some Other MBTI types and how they can gel with AI 
 
 ### **INTJ**
-Extremely strong fit with AI, but they were already effective.  
-AI increases efficiency, not capability range.
+Extremely strong fit with AI, but they were already effective. AI massively increases efficiency.
 
 ### **ENTP**
 Explodes with unique ideas and creativity—but risks even *more* scatter without completion.
-Have strengths that AI is not effective at eg. real time communication skills, high charisma
+These types seem to have personal strengths that AI is not good at right now eg. excellent real-time communication skills, high charisma, etc.
+
 
 ### **INFJ / INFP**
 Powerful for their strong and unique creativity and self-exploration, but AI may cause:
 - Choice paralysis
 - Ethical fatigue
 - overload from infinite options
+  So be aware of these.
 
 ### **ISTJ / ISFJ**
 Highly reliably AI users, but typically already effective and use AI to:
-- Help make Reliable and responsible improvements
+- Help make reliable and responsible improvements
 - Make established workflows even better.
+- Have strenghts such as proficiency with real world tools (e.g. good with fixing cars or good at handy work), that AI cannot compete with.
 
 ---
 
