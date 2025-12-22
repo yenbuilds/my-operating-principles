@@ -10,9 +10,7 @@
 
 ---
 
-## **INTP***
 
----
 
 ## INTPs and how they can benefit from AI
 
