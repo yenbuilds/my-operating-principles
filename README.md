@@ -12,30 +12,18 @@ I stand behind the ideas and outcomes presented here regardless of the tools use
 > [!CAUTION]
 > CAUTION! These ideas are not set in stone. Whenever new ideas hit or if I come into the posession of new knowledge, it may invalidate some of all of the below. Nothing here is held sacred! It's a living, breathing set of principles that can morph with me. I have found it helpful to try to avoid rigidity of thought. If nothing is ever being deleted, then this repo's as good as dead!
 
-### Inspirational (Identity, Framing, Worldview)
-- [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
-
-- [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
-- [AI Cognitive Styles Less Psychologically Threatened](yenbuilds-inspirational-ai-fear.md) 
----
 
 ### Strategic (Structural Models, Invariants, Direction)
-- [Unleveraged Debt](yenbuilds-strategic-unleveraged-debt.md) - How does the way we spend time and resources today, make the **future** easier? If it doesn't, it's not leveraged.
 - [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md) - These principles should be encoded into organisational structure, incentives, and defaults — not rediscovered repeatedly through meetings.
 - [Progress Measurement (Strategic–Tactical Bridge)](yenbuilds-stragtactical-progress-measurement.md)
 - [Inevitable Progress](yenbuilds-strategic-inevitable-progress.md)
 - [INTP Compound Engine](yenbuilds-strategic-intp-compound-engine.md)
 - [Master Spine Model](yenbuilds-strategic-master-spine-model.md)
-
-
 - [Resolving Constraint Collisions](yenbuilds-strategic-bounded-progress.md)
+- [Unleveraged Debt](yenbuilds-strategic-unleveraged-debt.md) - How does the way we spend time and resources today, make the **future** easier? If it doesn't, it's not leveraged.
 
 
-### Tactical (Execution Rules, Operating Mechanics)
-- [Adaptive Technical Suggestion Protocol (ATSP)](yenbuilds-tactical-atsp.md)
-- [LLM Situational Awareness](yenbuilds-tactical-llm-situational-awareness.md)
-- [Language De-Hype](yenbuilds-tactical-language-dehype.md)
----
-
-### Other Musongs
+### Other Musings
+- [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
+- [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
 - [INTP](yenbuilds-inspirational-intp.md)
