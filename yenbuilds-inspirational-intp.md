@@ -112,6 +112,16 @@ IMHO, AI appears suited to:
 
 The type seems to receive a **disproportionate multiplier** from the same tools. It gives the INTP some of that secret INTJ jet fuel.
 
+### The paradox
+
+The types least helped by AI often:
+	•	Feel most threatened by it
+	•	But are also the hardest to replace
+
+While the types most helped by AI:
+	•	Feel energized
+	•	But risk over-identification with abstraction
+  
 ---
 
 ## Final Note
