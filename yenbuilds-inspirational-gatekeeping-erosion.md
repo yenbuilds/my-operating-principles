@@ -1,4 +1,4 @@
-# Calculus as Gatekeeper: Why Its Dominance in High School Is Fading
+# Calculus as Gatekeeper
 
 For much of the 20th century, high school calculus functioned less as a subject and more as a **gate**. Passing through it signaled intellectual legitimacy; failing to do so quietly closed off entire academic and professional pathways. This system made historical sense. Over the next few decades, it will make less and less sense—and its gatekeeping role will erode accordingly.
 
