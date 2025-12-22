@@ -1,13 +1,5 @@
 # Measuring Progress in the Flight Sim Tools Platform
 
-YenBuilds is not a feature-driven product.  
-It is a **compounding platform**.
-
-That means traditional metrics (features shipped, users, polish) are not just unhelpful early — they are actively misleading.
-
-This document defines **how progress is measured** so momentum stays real, sustainable, and irreversible.
-
----
 
 ## Core Rule
 
