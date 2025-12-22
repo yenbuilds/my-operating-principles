@@ -21,6 +21,6 @@ I stand behind the ideas presented here regardless of the tools used.
 - [Why Most Retrospectives Are Useless](yenbuilds-strategic-useless-retrospectives.md) - A how to learn doc
 
 ### Other Musings
-- [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (Using high school calculus as an example)
+- [The Erosion of Gatekeeping](yenbuilds-inspirational-gatekeeping-erosion.md) (many should find this inspiring.)
 - [Power and Ethics of Naming](yenbuilds-inspirational-power-and-ethics-of-naming.md)
 - [INTP Reflection & Development](yenbuilds-inspirational-intp.md)
