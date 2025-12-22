@@ -105,7 +105,7 @@ There's heaps of other types, but this is just an example and I'm not going to g
 ## Bottom Line
 
 IMHO, AI appears suited to:
-- **Fix the INTP’s major execution weakness 
+- Patch the INTP’s major execution weakness 
 - **Supercharge their core strength** (deep conceptual exploration)
 
 The type seems to receive a **disproportionate multiplier** from the same tools. It gives the INTP some of that secret INTJ jet fuel.
