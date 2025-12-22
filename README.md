@@ -1,8 +1,7 @@
 **Disclosure & Authorship**
 
-This work was created using a combination of human judgment and AI tools.
-
-I stand behind the ideas and outcomes presented here regardless of the tools used.
+This work was created using a combination of human judgment and AI...
+I stand behind the ideas presented here regardless of the tools used.
 
 > [!IMPORTANT]
 > IMPORTANT! Life is larger than any system or project.
